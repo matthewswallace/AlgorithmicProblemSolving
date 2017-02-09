@@ -50,9 +50,4 @@ public class Queue {
 		
 		return topElement;
 	}
-	
-	
-	
-	
-
 }

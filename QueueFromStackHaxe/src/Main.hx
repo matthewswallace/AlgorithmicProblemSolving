@@ -23,8 +23,6 @@ class Main {
 
         trace("is the queue empty ? : " + queue.isEmpty());
 
-
-
     }
 
     public static function main() {
